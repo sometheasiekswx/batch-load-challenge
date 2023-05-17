@@ -30,3 +30,5 @@ Table/Collection schema:
 Customer: customerId (String) firstName (String) lastName (String) 
 
 Orders: orderId (String) customerId (String) item (String) quantity (Number)
+
+Stock: item, quantity
